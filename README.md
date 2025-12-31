@@ -96,13 +96,13 @@ User interface demonstrating core financial workflows and analytics.
     </td>
     <td align="center">
       <h3>Savings Goal</h3>
-      <img src="assets/saving_goal.png" width="480"/>
+      <img src="assets/saving goal.png" width="480"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <h3>Crypto Tracker</h3>
+      <h3>crypto tracker</h3>
       <img src="assets/crypto tracker.png" width="480"/>
     </td>
     <td align="center">
