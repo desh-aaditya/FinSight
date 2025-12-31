@@ -181,43 +181,6 @@ finsight/
   <li>Reduces manual data entry effort.</li>
 </ul>
 
-<hr/>
-
-<h2>Database Management</h2>
-
-<ul>
-  <li>Integrated database studio for data inspection.</li>
-  <li>Supports management of users, transactions, budgets, and goals.</li>
-  <li>Ensures consistent schema and migration handling.</li>
-</ul>
-
-<hr/>
-
-<h2>Security Considerations</h2>
-
-<ul>
-  <li>This project is a demonstration application.</li>
-  <li>Authentication is simplified for development purposes.</li>
-  <li>Production deployment should include secure password hashing.</li>
-  <li>Token-based authentication and HTTPS should be implemented.</li>
-  <li>Additional protections such as rate limiting and CSRF prevention are recommended.</li>
-</ul>
-
-<hr/>
-
-<h2>Why FinSight Stands Out</h2>
-
-<ul>
-  <li>Demonstrates advanced full-stack development using Next.js.</li>
-  <li>Combines finance, analytics, and modern UI practices.</li>
-  <li>Implements real-time state synchronization.</li>
-  <li>Integrates voice input and machine learning concepts.</li>
-</ul>
-
-<p>
-Suitable for:
-</p>
-
 <ul>
   <li>Internship evaluations</li>
   <li>Technical interviews</li>
